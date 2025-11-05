@@ -1,0 +1,28 @@
+# ---- MATLAB ----
+*.asv
+*.m~*
+*.mex*
+*.mlx.autosave
+*.slprj/
+*.mdl.autosave
+*.fig
+*.mat
+
+# ---- Project outputs & data ----
+figures/
+!figures/.gitkeep
+tables/
+!tables/.gitkeep
+data/
+!data/.gitkeep
+
+# Common data files (keep out of git by default)
+*.csv
+*.tsv
+*.xlsx
+
+# ---- OS/editor ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
