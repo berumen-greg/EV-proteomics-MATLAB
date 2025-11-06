@@ -34,5 +34,6 @@ MIT (see `LICENSE`). Add this to source files:
 ```
 
 ## Citation
-Cite this repo (Zenodo DOI to be added)
+Cite this repo (Zenodo DOI: doi.org/10.5281/zenodo.17538223)
+
 
